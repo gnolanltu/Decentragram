@@ -24,7 +24,13 @@ Replace the URL in the provider with the one from the previous step.
 
 Adding mnemonic
 -----------------
-Create a new file in the root directory named ".env" and add the line shown below, replacing the text with your wallet's 12 word mnemonic:
+Create a new file in the root directory named ".env" and add the line shown below, replacing the text with your wallet's 12 word mnemonic phrase:
+
+Create File:
+
+![CreateFile](images/CreateENV.png)
+
+Add mnemonic:
 
 ![mneumonic](images/mnemonic.PNG)
 
